@@ -1,5 +1,5 @@
 # YouTube Schematics
-A collection of schematics for @Commander1O1 on YouTube
+A collection of schematics for [Commander101](https://www.youtube.com/@Commander1O1) on YouTube
 
 Find the build you are looking for and download it for free
 
